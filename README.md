@@ -7,4 +7,4 @@ To allow Steve look at many tickers throught 2017 and 2018 to better advise his 
 After running the Macro for 2017 and 2018, I would suggest that Steve's parents invest in ENPH and RUN. These stocks have consistently been in the green for 2017 and 2018. Steve will need to add more recent data to his data and run the macro to advise more current return.
 
 ## Summary
-Refactoring code allows the macro to run faster. Prior the refactoring the macro would take double the time to calculate. ![Outcomes Based on Theater Launch Date Worksheet](VBA_Challenge_2017.png)
+Refactoring code allows the macro to run faster. Prior the refactoring the macro would take double the time to calculate. ![Outcomes Based on Theater Launch Date Worksheet](VBA_Challenge_2017.png)![Outcomes Based on Theater Launch Date Worksheet](VBA_Challenge_2018.png)
